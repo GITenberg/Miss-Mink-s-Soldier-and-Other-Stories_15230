@@ -1,0 +1,35 @@
+_repo: Miss-Mink-s-Soldier-and-Other-Stories_15230
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rice, Alice Caldwell Hegan
+    aliases:
+    - Hegan, Alice Caldwell
+    - Rice, Alice Hegan
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '1471'
+    url: http://www.gutenberg.org/2009/agents/1471
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Hegan_Rice
+description: ''
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '2005-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+tableOfContents: Miss Mink's soldier -- A darling of misfortune -- "Pop" -- Hoodooed
+  -- A matter of friendship -- The wild oats of a spinster -- Cupid goes slumming
+  -- The soul of O Sana San.
+title: Miss Mink's Soldier and Other Stories
+url: http://www.gutenberg.org/ebooks/15230
